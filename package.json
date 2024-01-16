@@ -1,0 +1,16 @@
+{
+  "name": "file-upload",
+  "author": "mannu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "connect-busboy": "^0.0.2",
+    "express": "^4.16.3",
+    "fs-extra": "^5.0.0"
+  }
+}
